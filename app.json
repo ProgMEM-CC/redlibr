@@ -45,7 +45,7 @@
       "required": false
     },
     "REDLIB_SFW_ONLY": {
-      "required": false
+      "required": true
     },
     "REDLIB_DEFAULT_HIDE_AWARDS": {
       "required": false
@@ -72,7 +72,7 @@
       "required": false
     },
     "REDLIB_ENABLE_RSS": {
-      "required": false
+      "required": true
     },
     "REDLIB_FULL_URL": {
       "required": false
