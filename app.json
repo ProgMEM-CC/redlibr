@@ -30,13 +30,13 @@
       "required": false
     },
     "REDLIB_DEFAULT_BLUR_SPOILER": {
-      "required": false
+      "required": true
     },
     "REDLIB_DEFAULT_SHOW_NSFW": {
       "required": false
     },
     "REDLIB_DEFAULT_BLUR_NSFW": {
-      "required": false
+      "required": true
     },
     "REDLIB_USE_HLS": {
       "required": false
@@ -78,7 +78,7 @@
       "required": false
     },
     "REDLIB_DEFAULT_REMOVE_DEFAULT_FEEDS": {
-      "required": false
+      "required": true
     }
   }
 }
